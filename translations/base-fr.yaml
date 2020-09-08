@@ -34,11 +34,11 @@ steamPage:
         shapez.io est un jeu dans lequel vous devrez construire des usines pour automatiser la création et la combinaison de formes de plus en plus complexes sur une carte infinie.
         En livrant les formes requises, vous progresserez et débloquerez des améliorations pour accélérer votre usine.
 
-        Vous devrez agrandir votre usine pour répondre à l’augmentation de la demande en formes — Mais n’oubliez pas les ressources, vous devrez vous étendre au milieu de cette [b]carte infinie[/b] !
+        Vous devrez agrandir votre usine pour répondre à l’augmentation de la demande en formes — Mais n’oubliez pas les ressources, vous devrez vous étendre au milieu de cette [b]carte infinie[/b] !
 
         Bientôt, vous devrez mélanger les couleurs et peindre vos formes avec — Combinez les ressources de couleurs rouge, verte et bleue pour produire différentes couleurs et peindre les formes avec pour satisfaire la demande.
 
-        Ce jeu propose 18 niveaux progressifs (qui devraient déjà vous occuper quelques heures !) mais je développe constamment plus de contenu — Il y a beaucoup de choses prévues !
+        Ce jeu propose 18 niveaux progressifs (qui devraient déjà vous occuper quelques heures !) mais je développe constamment plus de contenu — Il y a beaucoup de choses prévues !
 
         Acheter le jeu vous donne accès à la version complète qui a des fonctionnalités supplémentaires, et vous pourrez aussi accéder aux fonctionnalités fraîchement développées.
 
@@ -49,8 +49,8 @@ steamPage:
             [*] Balises infinies
             [*] Parties infinies
             [*] Plus d’options
-            [*] Prochainement : Câbles et énergie ! Prévu pour (environ) fin juillet 2020.
-            [*] Prochainement : Plus de niveaux
+            [*] Prochainement : Câbles et énergie ! Prévu pour (environ) fin juillet 2020.
+            [*] Prochainement : Plus de niveaux
             [*] Aidez-moi à continuer de développer shapez.io ❤️
         [/list]
 
@@ -60,18 +60,18 @@ steamPage:
 
         [list]
             [*] Différentes cartes et challenges (e.g. carte avec obstacles)
-            [*] Casse-tête (Livrer la forme requise avec une zone limitée/jeu de bâtiments)
+            [*] Casse-tête (Livrer la forme requise avec une zone limitée / jeu de bâtiments)
             [*] Un mode histoire où les bâtiments ont un coût
-            [*] Générateur de carte configurable (configuration des ressources/formes/taille/densité, graine aléatoire et plus)
+            [*] Générateur de carte configurable (configuration des ressources / formes / taille / densité, graine aléatoire et plus)
             [*] Plus de niveaux
-            [*] Amélioration des performances (Le jeu tourne déjà plutôt bien !)
-            [*] Et bien plus !
+            [*] Amélioration des performances (Le jeu tourne déjà plutôt bien !)
+            [*] Et bien plus !
         [/list]
 
         [b]Ce jeu est open source ![/b]
 
         Tout le monde peut contribuer, je suis très impliqué dans la communauté et j’essaye de répondre à toutes les suggestions et prendre en compte vos retours si possible.
-        Jetez un coup d’œil à mon Trello pour le suivi du projet et les plans de développement !
+        Jetez un coup d’œil à mon Trello pour le suivi du projet et les plans de développement !
         [b]Liens[/b]
 
         [list]
@@ -82,7 +82,7 @@ steamPage:
             [*] [url=https://github.com/tobspr/shapez.io/blob/master/translations/README.md]Aidez à traduire[/url]
         [/list]
 
-    discordLink: Discord officiel — Parlez avec moi !
+    discordLink: Discord officiel — Parlez avec moi !
 
 global:
     loading: Chargement
@@ -109,20 +109,20 @@ global:
     time:
         # Used for formatting past time dates
         oneSecondAgo: il y a une seconde
-        xSecondsAgo: il y a <x> secondes
+        xSecondsAgo: il y a <x> secondes
         oneMinuteAgo: il y a une minute
-        xMinutesAgo: il y a <x> minutes
+        xMinutesAgo: il y a <x> minutes
         oneHourAgo: il y a une heure
-        xHoursAgo: il y a <x> heures
+        xHoursAgo: il y a <x> heures
         oneDayAgo: il y a un jour
-        xDaysAgo: il y a <x> jours
+        xDaysAgo: il y a <x> jours
 
         # Short formats for times, e.g. '5h 23m'
         secondsShort: <seconds> s
-        minutesAndSecondsShort: <minutes> m <seconds> s
-        hoursAndMinutesShort: <hours> h <minutes> m
+        minutesAndSecondsShort: <minutes> m <seconds> s
+        hoursAndMinutesShort: <hours> h <minutes> m
 
-        xMinutes: <x> minutes
+        xMinutes: <x> minutes
 
     keys:
         tab: TAB
@@ -136,21 +136,21 @@ demoBanners:
     # This is the "advertisement" shown in the main menu and other various places
     title: Version démo
     intro: >-
-        Achetez la version complète pour débloquer toutes les fonctionnalités !
+        Achetez la version complète pour débloquer toutes les fonctionnalités !
 
 mainMenu:
     play: Jouer
     changelog: Historique
     importSavegame: Importer
-    openSourceHint: Ce jeu est open source !
+    openSourceHint: Ce jeu est open source !
     discordLink: Serveur Discord officiel
-    helpTranslate: Contribuez à la traduction !
+    helpTranslate: Contribuez à la traduction !
 
     # This is shown when using firefox and other browsers which are not supported.
     browserWarning: >-
-        Désolé, ce jeu sera lent sur votre navigateur web ! Procurez-vous la version complète ou téléchargez Chrome pour une meilleure expérience.
+        Désolé, ce jeu sera lent sur votre navigateur web ! Procurez-vous la version complète ou téléchargez Chrome pour une meilleure expérience.
 
-    savegameLevel: Niveau <x>
+    savegameLevel: Niveau <x>
     savegameLevelUnknown: Niveau inconnu
 
     continue: Continuer
@@ -190,7 +190,7 @@ dialogs:
     confirmSavegameDelete:
         title: Confirmez la suppression
         text: >-
-            Êtes-vous sûr de vouloir supprimer votre partie ?
+            Êtes-vous sûr de vouloir supprimer votre partie ?
 
     savegameDeletionError:
         title: Impossible de supprimer
@@ -212,48 +212,48 @@ dialogs:
 
     keybindingsResetOk:
         title: Réinitialisation des contrôles
-        desc: Les contrôles ont été remis à défaut !
+        desc: Les contrôles ont été remis à défaut !
 
     featureRestriction:
         title: Version démo
-        desc: Vous avez essayé d’accéder à la fonction (<feature>) qui n’est pas disponible dans la démo. Pensez à acheter la version complète pour une expérience optimale !
+        desc: Vous avez essayé d’accéder à la fonction (<feature>) qui n’est pas disponible dans la démo. Pensez à acheter la version complète pour une expérience optimale !
 
     oneSavegameLimit:
         title: Sauvegardes limitées
-        desc: Vous ne pouvez avoir qu’une seule sauvegarde en même temps dans la version démo. Merci d’effacer celle en cours ou bien de vous procurer la version complète !
+        desc: Vous ne pouvez avoir qu’une seule sauvegarde en même temps dans la version démo. Merci d’effacer celle en cours ou bien de vous procurer la version complète !
 
     updateSummary:
-        title: Nouvelle mise à jour !
+        title: Nouvelle mise à jour !
         desc: >-
             Voici les changements depuis votre dernière session :
 
     upgradesIntroduction:
         title: Débloquer les améliorations
         desc: >-
-            Toutes les formes que vous produisez peuvent être utilisées pour débloquer des améliorations — <strong>Ne détruisez pas vos anciennes usines !</strong>
+            Toutes les formes que vous produisez peuvent être utilisées pour débloquer des améliorations — <strong>Ne détruisez pas vos anciennes usines !</strong>
             L'onglet des améliorations se trouve dans le coin supérieur droit de l'écran.
 
     massDeleteConfirm:
         title: Confirmation de suppression
         desc: >-
-            Vous allez supprimer beaucoup de bâtiments (<count> pour être précis) ! Êtes-vous sûr de vouloir faire ça ?
+            Vous allez supprimer beaucoup de bâtiments (<count> pour être précis) ! Êtes-vous sûr de vouloir faire ça ?
 
     massCutConfirm:
         title: Confirmer la coupure
         desc: >-
-            Vous allez couper beaucoup de bâtiments (<count> pour être précis) ! Êtes-vous sûr de vouloir faire ça ?
+            Vous allez couper beaucoup de bâtiments (<count> pour être précis) ! Êtes-vous sûr de vouloir faire ça ?
 
     blueprintsNotUnlocked:
         title: Pas encore débloqué
         desc: >-
-            Les patrons n’ont pas encore été débloqués ! Terminez le niveau 12 pour y avoir accès.
+            Les patrons n’ont pas encore été débloqués ! Terminez le niveau 12 pour y avoir accès.
 
     keybindingsIntroduction:
         title: Raccourcis utiles
         desc: >-
             Le jeu a de nombreux raccourcis facilitant la construction de grandes usines.
-            En voici quelques-uns, n’hésitez pas à aller <strong>découvrir les raccourcis</strong> !<br><br>
-            <code class='keybinding'>CTRL</code> + glisser : Sélectionne une zone à copier / effacer.<br>
+            En voici quelques-uns, n’hésitez pas à aller <strong>découvrir les raccourcis</strong> !<br><br>
+            <code class='keybinding'>CTRL</code> + glisser : Sélectionne une zone à copier / effacer.<br>
             <code class='keybinding'>MAJ</code> : Laissez appuyé pour placer plusieurs fois le même bâtiment.<br>
             <code class='keybinding'>ALT</code> : Inverse l’orientation des convoyeurs placés.<br>
 
@@ -263,16 +263,16 @@ dialogs:
         titleEdit: Modifier cette balise
 
     markerDemoLimit:
-        desc: Vous ne pouvez créer que deux balises dans la démo. Achetez la version complète pour en placer autant que vous voulez !
+        desc: Vous ne pouvez créer que deux balises dans la démo. Achetez la version complète pour en placer autant que vous voulez !
 
     exportScreenshotWarning:
         title: Exporter une capture d'écran
         desc: >-
-            Vous avez demandé à exporter une capture d’écran de votre base. Soyez conscient que cela peut s’avérer passablement lent pour une grande base, voire faire planter votre jeu !
+            Vous avez demandé à exporter une capture d’écran de votre base. Soyez conscient que cela peut s’avérer passablement lent pour une grande base, voire faire planter votre jeu !
 
     massCutInsufficientConfirm:
         title: Confirmer la coupe
-        desc: Vous n’avez pas les moyens de copier cette zone ! Êtes-vous sûr de vouloir la couper ?
+        desc: Vous n’avez pas les moyens de copier cette zone ! Êtes-vous sûr de vouloir la couper ?
 
 ingame:
     # This is shown in the top left corner and displays useful keybindings in
@@ -313,23 +313,23 @@ ingame:
             speed: Vitesse
             range: Portée
             storage: Espace de stockage
-            oneItemPerSecond: 1 forme ⁄ s
-            itemsPerSecond: <x> formes ⁄ s
+            oneItemPerSecond: 1 forme ⁄ s
+            itemsPerSecond: <x> formes ⁄ s
             itemsPerSecondDouble: (×2)
 
-            tiles: <x> cases
+            tiles: <x> cases
 
     # The notification when completing a level
     levelCompleteNotification:
         # <level> is replaced by the actual level, so this gets 'Level 03' for example.
-        levelTitle: Niveau <level>
+        levelTitle: Niveau <level>
         completed: Terminé
-        unlockText: <reward> débloqué !
+        unlockText: <reward> débloqué !
         buttonNextLevel: Niveau suivant
 
     # Notifications on the lower right
     notifications:
-        newUpgrade: Une nouvelle amélioration est disponible !
+        newUpgrade: Une nouvelle amélioration est disponible !
         gameSaved: Votre partie a été sauvegardée.
 
     # The "Upgrades" window
@@ -338,7 +338,7 @@ ingame:
         buttonUnlock: Améliorer
 
         # Gets replaced to e.g. "Tier IX"
-        tier: Niveau <x>
+        tier: Niveau <x>
 
         # The roman number for each tier
         tierLabels: [I, II, III, IV, V, VI, VII, VIII, IX, X]
@@ -376,7 +376,7 @@ ingame:
 
     # Bottom left tutorial hints
     tutorialHints:
-        title: Besoin d’aide ?
+        title: Besoin d’aide ?
         showHint: Indice
         hideHint: Fermer
 
@@ -395,12 +395,12 @@ ingame:
     interactiveTutorial:
         title: Tutoriel
         hints:
-            1_1_extractor: Placez un <strong>extracteur</strong> sur une <strong>forme en cercle</strong> pour l’extraire !
+            1_1_extractor: Placez un <strong>extracteur</strong> sur une <strong>forme en cercle</strong> pour l’extraire !
             1_2_conveyor: >-
-                Connectez l’extracteur avec un <strong>convoyeur</strong> vers votre centre !<br><br>Astuce : <strong>Cliquez et faites glisser</strong> le convoyeur avec votre souris !
+                Connectez l’extracteur avec un <strong>convoyeur</strong> vers votre centre !<br><br>Astuce : <strong>Cliquez et faites glisser</strong> le convoyeur avec votre souris !
 
             1_3_expand: >-
-                Ceci n’est <strong>PAS</strong> un jeu incrémental et inactif ! Construisez plus d’extracteurs et de convoyeurs pour atteindre plus vite votre but.<br><br>Astuce : Gardez <strong>MAJ</strong> enfoncé pour placer plusieurs extracteurs, et utilisez <strong>R</strong> pour les faire pivoter.
+                Ceci n’est <strong>PAS</strong> un jeu incrémental et inactif ! Construisez plus d’extracteurs et de convoyeurs pour atteindre plus vite votre but.<br><br>Astuce : Gardez <strong>MAJ</strong> enfoncé pour placer plusieurs extracteurs, et utilisez <strong>R</strong> pour les faire pivoter.
 
     colors:
         red: Rouge
@@ -476,10 +476,10 @@ buildings:
     cutter:
         default:
             name: &cutter Découpeur
-            description: Coupe une forme de haut en bas et sort les deux parties. <strong>Si vous n’utilisez qu’une seule partie, assurez-vous de détruite l’autre ou sinon, gare au blocage !</strong>
+            description: Coupe une forme de haut en bas et sort les deux parties. <strong>Si vous n’utilisez qu’une seule partie, assurez-vous de détruite l’autre ou sinon, gare au blocage !</strong>
         quad:
             name: Découpeur (quadruple)
-            description: Coupe une forme en quatre parties. <strong>Si vous n’utilisez pas toutes les parties, assurez-vous de détruire les autres ou sinon, gare au blocage !</strong>
+            description: Coupe une forme en quatre parties. <strong>Si vous n’utilisez pas toutes les parties, assurez-vous de détruire les autres ou sinon, gare au blocage !</strong>
 
     rotater:
         default:
@@ -554,84 +554,84 @@ storyRewards:
     # Those are the rewards gained from completing the store
     reward_cutter_and_trash:
         title: Découpage de formes
-        desc: Vous venez de débloquer le <strong>découpeur</strong> — il coupe des formes en deux <strong>de haut en bas</strong> quelle que soit son orientation !<br><br>Assurez-vous de vous débarrasser des déchets, sinon <strong>gare au blocage</strong> — À cet effet, je mets à votre disposition la poubelle, qui détruit tout ce que vous y mettez !
+        desc: Vous venez de débloquer le <strong>découpeur</strong> — il coupe des formes en deux <strong>de haut en bas</strong> quelle que soit son orientation !<br><br>Assurez-vous de vous débarrasser des déchets, sinon <strong>gare au blocage</strong> — À cet effet, je mets à votre disposition la poubelle, qui détruit tout ce que vous y mettez !
 
     reward_rotater:
         title: Rotation
-        desc: Le <strong>pivoteur</strong> a été débloqué ! Il pivote les formes de 90 degrés vers la droite.
+        desc: Le <strong>pivoteur</strong> a été débloqué ! Il pivote les formes de 90 degrés vers la droite.
 
     reward_painter:
         title: Peintre
         desc: >-
-            Le <strong>peintre</strong> a été débloqué — Extrayez des pigments de couleur (comme vous le faites avec les formes) et combinez-les avec une forme dans un peintre pour les colorier !<br><br>PS : Si vous êtes daltonien, il y a un <strong>mode daltonien</strong> paramétrable dans les préférences !
+            Le <strong>peintre</strong> a été débloqué — Extrayez des pigments de couleur (comme vous le faites avec les formes) et combinez-les avec une forme dans un peintre pour les colorier !<br><br>PS : Si vous êtes daltonien, il y a un <strong>mode daltonien</strong> paramétrable dans les préférences !
 
     reward_mixer:
         title: Mélangeur de couleurs
-        desc: Le <strong>mélangeur</strong> a été débloqué — Combinez deux couleurs en utilisant <strong>la synthèse additive des couleurs</strong> avec ce bâtiment !
+        desc: Le <strong>mélangeur</strong> a été débloqué — Combinez deux couleurs en utilisant <strong>la synthèse additive des couleurs</strong> avec ce bâtiment !
 
     reward_stacker:
         title: Combineur
-        desc: Vous pouvez maintenant combiner deux formes avec le <strong>combineur</strong> ! Les deux entrées sont combinées et si elles peuvent être mises l’une à côté de l’autre, elles sont <strong>fusionnées</strong>. Sinon, la forme de droite est <strong>placée au-dessus</strong> de la forme de gauche.
+        desc: Vous pouvez maintenant combiner deux formes avec le <strong>combineur</strong> ! Les deux entrées sont combinées et si elles peuvent être mises l’une à côté de l’autre, elles sont <strong>fusionnées</strong>. Sinon, la forme de droite est <strong>placée au-dessus</strong> de la forme de gauche.
 
     reward_splitter:
-        title: Distributeur/rassembleur
-        desc: Le <strong>répartiteur</strong> multifonctionnel a été débloqué — Il peut être utilisé pour construire de plus grandes usines en <strong>distribuant équitablement et rassemblant les formes</strong> entre plusieurs convoyeurs !<br><br>
+        title: Distributeur / rassembleur
+        desc: Le <strong>répartiteur</strong> multifonctionnel a été débloqué — Il peut être utilisé pour construire de plus grandes usines en <strong>distribuant équitablement et rassemblant les formes</strong> entre plusieurs convoyeurs !<br><br>
 
     reward_tunnel:
         title: Tunnel
-        desc: Le <strong>tunnel</strong> a été débloqué — Vous pouvez maintenant faire passer des formes sous les convoyeurs et les bâtiments !
+        desc: Le <strong>tunnel</strong> a été débloqué — Vous pouvez maintenant faire passer des formes sous les convoyeurs et les bâtiments !
 
     reward_rotater_ccw:
         title: Pivoteur inversé
-        desc: Vous avez débloqué une variante du <strong>pivoteur</strong> — Elle permet de faire pivoter vers la gauche ! Pour le construire, sélectionnez le pivoteur et <strong>appuyez sur 'T' pour alterner entre les variantes</strong> !
+        desc: Vous avez débloqué une variante du <strong>pivoteur</strong> — Elle permet de faire pivoter vers la gauche ! Pour le construire, sélectionnez le pivoteur et <strong>appuyez sur 'T' pour alterner entre les variantes</strong> !
 
     reward_miner_chainable:
         title: Extracteur en série
-        desc: Vous avez débloqué <strong>l’extracteur en série</strong> ! Il permet de <strong>transférer ses ressources</strong> à d’autres extracteurs pour augmenter le débit sortant !
+        desc: Vous avez débloqué <strong>l’extracteur en série</strong> ! Il permet de <strong>transférer ses ressources</strong> à d’autres extracteurs pour augmenter le débit sortant !
 
     reward_underground_belt_tier_2:
         title: Tunnel niveau II
-        desc: Vous avez débloqué une nouvelle variante du <strong>tunnel</strong> — Elle a une <strong>portée plus grande</strong>, et vous pouvez superposer les deux variantes de tunnels !
+        desc: Vous avez débloqué une nouvelle variante du <strong>tunnel</strong> — Elle a une <strong>portée plus grande</strong>, et vous pouvez superposer les deux variantes de tunnels !
 
     reward_splitter_compact:
         title: Répartiteur compact
         desc: >-
-            Vous avez débloqué une variante compacte du <strong>répartiteur</strong> — Elle accepte deux entrées et les rassemble en une sortie !
+            Vous avez débloqué une variante compacte du <strong>répartiteur</strong> — Elle accepte deux entrées et les rassemble en une sortie !
 
     reward_cutter_quad:
         title: Quadruple découpeur
-        desc: Vous avez débloqué une variante du <strong>découpeur</strong> — Elle permet de découper les formes en <strong>quatre parties</strong> à la place de simplement deux !
+        desc: Vous avez débloqué une variante du <strong>découpeur</strong> — Elle permet de découper les formes en <strong>quatre parties</strong> à la place de simplement deux !
 
     reward_painter_double:
         title: Double peintre
-        desc: Vous avez débloqué une variante du <strong>peintre</strong> — Elle fonctionne comme le peintre de base, mais elle permet de traiter <strong>deux formes à la fois</strong> en ne consommant qu’une couleur au lieu de deux !
+        desc: Vous avez débloqué une variante du <strong>peintre</strong> — Elle fonctionne comme le peintre de base, mais elle permet de traiter <strong>deux formes à la fois</strong> en ne consommant qu’une couleur au lieu de deux !
 
     reward_painter_quad:
         title: Quadruple peintre
-        desc: Vous avez débloqué une variante du <strong>peintre</strong> — Elle permet de colorier chaque partie d’une forme individuellement !
+        desc: Vous avez débloqué une variante du <strong>peintre</strong> — Elle permet de colorier chaque partie d’une forme individuellement !
 
     reward_storage:
         title: Tampon de stockage
-        desc: Vous avez débloqué une variante de <strong>la poubelle</strong> — Elle permet de stocker des formes jusqu’à une certaine limite !
+        desc: Vous avez débloqué une variante de <strong>la poubelle</strong> — Elle permet de stocker des formes jusqu’à une certaine limite !
 
     reward_freeplay:
         title: Mode libre
-        desc: Vous y êtes arrivé ! Vous avez débloqué le <strong>mode libre</strong> ! Cela veut dire que dorénavant, les formes sont générées aléatoirement ! (Ne vous en faites pas, encore plus de contenu est prévu pour la version complète !)
+        desc: Vous y êtes arrivé ! Vous avez débloqué le <strong>mode libre</strong> ! Cela veut dire que dorénavant, les formes sont générées aléatoirement ! (Ne vous en faites pas, encore plus de contenu est prévu pour la version complète !)
 
     reward_blueprints:
         title: Patrons
-        desc: Vous pouvez maintenant <strong>copier et coller</strong> des parties de votre usine ! Sélectionnez une zone (Appuyez sur CTRL, et sélectionnez avec votre souris), et appuyez sur 'C' pour la copier.<br><br>Coller n’est <strong>pas gratuit</strong>, vous devez produire <strong>des formes de patrons</strong> pour vous le payer (les mêmes que celles que vous venez de livrer).
+        desc: Vous pouvez maintenant <strong>copier et coller</strong> des parties de votre usine ! Sélectionnez une zone (Appuyez sur CTRL, et sélectionnez avec votre souris), et appuyez sur 'C' pour la copier.<br><br>Coller n’est <strong>pas gratuit</strong>, vous devez produire <strong>des formes de patrons</strong> pour vous le payer (les mêmes que celles que vous venez de livrer).
 
     # Special reward, which is shown when there is no reward actually
     no_reward:
         title: Niveau suivant
         desc: >-
-            Ce niveau n’a pas de récompense mais le prochain, si !<br><br>PS :  Ne détruisez pas votre usine actuelle — Vous aurez besoin de <strong>toutes</strong> ces formes plus tard pour <strong>débloquer des améliorations</strong>.
+            Ce niveau n’a pas de récompense mais le prochain, si !<br><br>PS : Ne détruisez pas votre usine actuelle — Vous aurez besoin de <strong>toutes</strong> ces formes plus tard pour <strong>débloquer des améliorations</strong>.
 
     no_reward_freeplay:
         title: Niveau suivant
         desc: >-
-            Bravo ! À propos, plus de contenu est prévu pour la version complète !
+            Bravo ! À propos, plus de contenu est prévu pour la version complète !
 
 settings:
     title: Options
@@ -687,7 +687,7 @@ settings:
         theme:
             title: Thème
             description: >-
-                Choisissez votre thème (clair / sombre).
+                Choisissez votre thème (clair / sombre).
 
             themes:
                 dark: Sombre
@@ -711,7 +711,7 @@ settings:
         language:
             title: Langue
             description: >-
-                Change la langue. Toutes les traductions sont réalisées par les utilisateurs et peuvent incomplètes !
+                Change la langue. Toutes les traductions sont réalisées par les utilisateurs et peuvent incomplètes !
 
         movementSpeed:
             title: Vitesse de déplacement
@@ -749,9 +749,9 @@ settings:
             description: >-
                 Raccourci les panneaux d’information sur les bâtiments en n’affichant que les ratios. Si désactivé, montre une description et une image.
         disableCutDeleteWarnings:
-            title: Désactive les avertissements pour Couper/Effacer
+            title: Désactive les avertissements pour Couper / Effacer
             description: >-
-                Désactive la boîte de dialogue qui s’affiche lorsque vous vous apprêtez à couper/effacer plus de 100 entités.
+                Désactive la boîte de dialogue qui s’affiche lorsque vous vous apprêtez à couper / effacer plus de 100 entités.
 
         enableColorBlindHelper:
             title: Mode daltonien
@@ -765,7 +765,7 @@ settings:
 keybindings:
     title: Contrôles
     hint: >-
-        Astuce : N'oubliez pas d'utiliser CTRL, MAJ et ALT ! Ces touches activent différentes options de placement.
+        Astuce : N'oubliez pas d'utiliser CTRL, MAJ et ALT ! Ces touches activent différentes options de placement.
 
     resetKeybindings: Réinitialiser les contrôles
 
@@ -845,10 +845,10 @@ about:
 
         Ce jeu n’aurait pas pu être réalisé sans la précieuse communauté Discord autour de
         mes jeux — Vous devriez vraiment rejoindre le <a href="<discordlink>"
-        target="_blank">serveur Discord</a> !<br><br>
+        target="_blank">serveur Discord</a> !<br><br>
 
         La bande son a été créée par <a href="https://soundcloud.com/pettersumelius"
-        target="_blank">Peppsen</a> — Il est génial !<br><br>
+        target="_blank">Peppsen</a> — Il est génial !<br><br>
 
         Pour terminer, un immense merci à mon meilleur ami <a
         href="https://github.com/niklas-dahl" target="_blank">Niklas</a> — Sans nos sessions sur Factorio, ce jeu n’aurait jamais existé.
