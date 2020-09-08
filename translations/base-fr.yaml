@@ -711,7 +711,7 @@ settings:
         language:
             title: Langue
             description: >-
-                Change la langue. Toutes les traductions sont réalisées par les utilisateurs et peuvent incomplètes !
+                Change la langue. Toutes les traductions sont réalisées par les utilisateurs et peuvent être incomplètes !
 
         movementSpeed:
             title: Vitesse de déplacement
@@ -747,7 +747,7 @@ settings:
         compactBuildingInfo:
             title: Informations réduites sur les bâtiments
             description: >-
-                Raccourci les panneaux d’information sur les bâtiments en n’affichant que les ratios. Si désactivé, montre une description et une image.
+                Raccourcit les panneaux d’information sur les bâtiments en n’affichant que les ratios. Si désactivé, montre une description et une image.
         disableCutDeleteWarnings:
             title: Désactive les avertissements pour Couper / Effacer
             description: >-
