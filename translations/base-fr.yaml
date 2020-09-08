@@ -89,13 +89,13 @@ global:
     error: Erreur
 
     # How big numbers are rendered, e.g. "10,000"
-    # En français, le séparateur des milliers est l'espace (fine) insécable
+    # En français, le séparateur des milliers est l’espace (fine) insécable
     thousandsDivider: " "
 
     # What symbol to use to seperate the integer part from the fractional part of a number, e.g. "0.4"
     decimalSeparator: ","
 
-    # The suffix for large numbers, e.g. 1.3k, 400.2M, etc.   cf wikipedia système international d'unité
+    # The suffix for large numbers, e.g. 1.3k, 400.2M, etc.   cf wikipedia système international d’unité
     # For french: https://fr.wikipedia.org/wiki/Pr%C3%A9fixes_du_Syst%C3%A8me_international_d%27unit%C3%A9s
     suffix:
         thousands: k
@@ -231,7 +231,7 @@ dialogs:
         title: Débloquer les améliorations
         desc: >-
             Toutes les formes que vous produisez peuvent être utilisées pour débloquer des améliorations — <strong>Ne détruisez pas vos anciennes usines !</strong>
-            L'onglet des améliorations se trouve dans le coin supérieur droit de l'écran.
+            L’onglet des améliorations se trouve dans le coin supérieur droit de l’écran.
 
     massDeleteConfirm:
         title: Confirmation de suppression
@@ -266,7 +266,7 @@ dialogs:
         desc: Vous ne pouvez créer que deux balises dans la démo. Achetez la version complète pour en placer autant que vous voulez !
 
     exportScreenshotWarning:
-        title: Exporter une capture d'écran
+        title: Exporter une capture d’écran
         desc: >-
             Vous avez demandé à exporter une capture d’écran de votre base. Soyez conscient que cela peut s’avérer passablement lent pour une grande base, voire faire planter votre jeu !
 
@@ -765,7 +765,7 @@ settings:
 keybindings:
     title: Contrôles
     hint: >-
-        Astuce : N'oubliez pas d'utiliser CTRL, MAJ et ALT ! Ces touches activent différentes options de placement.
+        Astuce : N’oubliez pas d’utiliser CTRL, MAJ et ALT ! Ces touches activent différentes options de placement.
 
     resetKeybindings: Réinitialiser les contrôles
 
@@ -831,7 +831,7 @@ keybindings:
         menuClose: Fermer le menu
         switchLayers: Basculer le calque
         advanced_processor: Inverseur de couleur
-        energy_generator: Générateur d'énergie
+        energy_generator: Générateur d’énergie
         wire: Câble
 
 about:
