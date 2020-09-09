@@ -476,7 +476,7 @@ buildings:
     cutter:
         default:
             name: &cutter Découpeur
-            description: Coupe une forme de haut en bas et sort les deux parties. <strong>Si vous n’utilisez qu’une seule partie, assurez-vous de détruite l’autre ou sinon, gare au blocage !</strong>
+            description: Coupe une forme de haut en bas et sort les deux parties. <strong>Si vous n’utilisez qu’une seule partie, assurez-vous de détruire l’autre ou sinon, gare au blocage !</strong>
         quad:
             name: Découpeur (quadruple)
             description: Coupe une forme en quatre parties. <strong>Si vous n’utilisez pas toutes les parties, assurez-vous de détruire les autres ou sinon, gare au blocage !</strong>
